@@ -3,7 +3,7 @@ A scraper webapp application in JS
 
 ## 🛠️ Technologies
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,tailwind,supabase" />
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,tailwind,supabase" /><br>
     <a align="center">Hunter.io, SerpAPI, APollo.io</a>
 </p>
 
