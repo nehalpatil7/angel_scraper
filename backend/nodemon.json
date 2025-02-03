@@ -1,0 +1,8 @@
+{
+    "env": {
+        "port": 5001,
+        "SERPAPI_KEY": "fdd171d537d865f28ea1901b51a9061aa91ec27eda6888ee60cde8396d55fc75",
+        "APOLLO_API_KEY": "5AtPxeVX9gmqXG7CDmu0GQ",
+        "HUNTER_API_KEY": "22be873d3f37a227ff1167d84ba1410872e8a65b"
+    }
+}
